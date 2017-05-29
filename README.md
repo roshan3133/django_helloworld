@@ -38,7 +38,7 @@ After which you can run::
 ```
     $ python manage.py runserver
 or 
-    $ python manage.py <ip>:<port>
+    $ python manage.py runserver <ip>:<port>
 ```
 
 And open the following URL in your web browser:
